@@ -1,1 +1,1 @@
-# Ping-bonk
+# Ping-bonk is game for two players. Player 1 controls the left rocket but Player 2 conrols right rocket. If ball touches left or right wall that Player 1 or 2 lose respectively. Control for Player 1: 'w' - up, 's' - down; for Player 2: 'up' - up, 'down'.
